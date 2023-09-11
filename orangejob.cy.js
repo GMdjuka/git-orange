@@ -30,9 +30,9 @@ describe('add employee', () => {
         it('add data', () => {
   
             cy.get(':nth-child(6) > .orangehrm-tabs-item').click()
-          
+          cz.get
             
               })
           }); 
 
-          neki kod
+          neki kod novi
